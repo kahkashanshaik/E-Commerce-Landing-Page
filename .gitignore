@@ -7,6 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+E-Commerce Site with audio.mp4
+E-Commerce Site.mp4
+
 node_modules
 dist
 dist-ssr
